@@ -1,13 +1,13 @@
 Hi, I’m Dapo Obembe.
 
-I'm a Front-end Developer (sometimes I do Backend designs), WordPress developer and a Registered Nurse good at using HTML, CSS, JavaScript, Bootstrap, ReactJs, and SASS. In my spare time, I analyze data using Excel and SQL.
+I'm a Software Developer and a Registered Nurse good at using HTML, CSS, JavaScript, Bootstrap, ReactJs, and SASS. In my spare time, I write articles and make youtube videos to help beginners in the world of web.
 
 
 ## MY SERVICES ARE; 
 √ Website Development
 √ Web Development tutorials 
 √ Website SEO implementation 
-√ Data analysis 
+√ Website Management 
 
 Looking forward to rendering my services to you. 
 
